@@ -1,0 +1,104 @@
+/** Place CSS variables here -- this is the exception to the CSS ordering rule (below). */
+:root {
+}
+
+/**
+Order by increasing specifity order:
+    @-rules belonging to the root,
+    tags/pseudo-elements,
+    classes/attributes/pseudo-classes,
+    ID selectors
+
+Visually, later rules override earlier rules.
+*/
+
+@keyframes slide-out-up {
+    0% {
+        margin-top: 0;
+        opacity: 1;
+    }
+    100% {
+        margin-top: -100vh;
+        opacity: 0.5;
+    }
+}
+
+html, body {
+    border: 0;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    width: 100vw;
+}
+
+body > div {
+    height: 100%;
+    width: 100%;
+}
+
+div {
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.center {
+    text-align: center;
+    width: 100%;
+}
+
+.middle {
+    height: 100%;
+    white-space: nowrap;
+}
+
+.middle::before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    width: 0px;
+}
+
+.middle > * {
+    display: inline-block;
+    margin: 0px;
+    vertical-align: middle;
+    white-space: normal;
+}
+
+.page {
+    height: 100vh;
+    position: relative;
+    width: 100vw;
+}
+
+.shoutout {
+    font-family: sans-serif;
+    font-size: 72pt;
+    font-variant: small-caps;
+}
+
+#intro1, #intro2 {
+    animation: slide-out-up 1.5s linear;
+    animation-fill-mode: forwards;
+}
+
+#intro1 {
+    animation-delay: 2s;
+    background-color: black;
+    color: white;
+}
+
+#intro2 {
+    animation-delay: 6s;
+    background-color: red;
+    color: white;
+}
+
+#main-content {
+    background-color: green;
+    color: white;
+}
