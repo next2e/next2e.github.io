@@ -1,0 +1,41 @@
+/* Claire's uglyi (?) palette
+https://coolors.co/f15025-ffffff-e6e8e6-ced0ce-191919
+*/
+
+.navbar {
+  background-color: #F15025;
+  border-color: #d5380e;
+  color: #bd320c;
+}
+
+.navbar-default .navbar-nav .active a, .navbar-default .navbar-nav .active a:hover {
+  background-color: #d5380e;
+  color: #e6e8e6;
+}
+
+.navbar-default .navbar-nav li a {
+  color: #E6E8E6;
+}
+
+.navbar-default .navbar-nav li a:hover {
+  background-color: #ed3e0f;
+  color: #e6e8e6;
+}
+
+.navbar-default .navbar-toggle {
+  background-color: #f15025;
+  border-color: #d5380e;
+}
+
+.navbar-default .navbar-toggle:hover {
+  background-color: #ed3e0f;
+}
+
+.navbar-default .navbar-toggle:active {
+  background-color: #d5380e;
+}
+
+
+
+
+
