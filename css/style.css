@@ -1,6 +1,60 @@
 /* Claire's ugly (?) palette
 https://coolors.co/f15025-ffffff-e6e8e6-ced0ce-191919
 */
+body {
+  font-family: 'Karla';
+}
+
+h1 {
+  font-family: 'Montserrat';
+  text-transform: uppercase;
+}
+
+a, a:active {
+  text-decoration: none;
+}
+
+.content {
+  position: relative;
+  margin-top: 6rem;
+  padding: 0 2rem;
+}
+
+.sticky-nav {
+  background-color: #F15025;
+  z-index: 150;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
+.nav-item-container {
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+
+  align-items: center;
+}
+
+.nav-item, .nav-item:visited, .nav-item:active {
+  font-family: 'Montserrat';
+  color: #FFFFFF;
+  font-size: 2rem;
+  text-transform: uppercase;
+  padding: 1rem 2rem;
+  text-decoration: none;
+}
+
+.nav-item:hover {
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color: #FFFFFF;
+  color: #F15025;
+}
 
 .navbar {
   background-color: #F15025;
