@@ -37,10 +37,10 @@ a, a:active {
   -webkit-align-items: center;
   -webkit-box-align: center;
 
-  align-items: center;
+  align-items: center; 
 }
 
-.nav-item, .nav-item:visited, .nav-item:active {
+.nav-item, .nav-item:visited, .nav-item:active, .navbar-brand, .navbar-brand:visited, .navbar-brand:active {
   font-family: 'Montserrat';
   color: #FFFFFF;
   font-size: 2rem;
@@ -56,14 +56,19 @@ a, a:active {
   color: #F15025;
 }
 
+.glyphicon {
+  color: #FFFFFF;
+}
+
 .navbar {
   background-color: #F15025;
   border-color: #d5380e;
   color: #bd320c;
 }
 
-.navbar-default .navbar-brand {
-  color: #E6E8E6;
+.navbar-brand {
+  display: flex;
+  align-items: center;
 }
 
 .navbar-default .navbar-nav .active a, .navbar-default .navbar-nav .active a:hover {
@@ -92,6 +97,20 @@ a, a:active {
 .navbar-default .navbar-toggle:active {
   background-color: #d5380e;
 }
+
+/* Responsive navbar? */
+@media screen and (min-width: 670px) {
+  /* Do things here to make navbar nice */
+
+
+}
+
+
+
+
+
+
+
 
 
 

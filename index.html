@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!-- 2E5EVER 
   Created 2016/08/04
-  Last edited 2016/08/08
+  Last edited 2016/08/10
   Source at https://github.com/next2e/next2e-website
 -->
 <html>
@@ -20,12 +20,23 @@
 <body>
 
   <!-- Navbar -->
-  <nav class="sticky-nav nav-item-container">
-    <a class="nav-item" href="#">2E</a>
-    <a class="nav-item" href="#">People</a>
-    <a class="nav-item" href="#">Projects</a>
-    <a class="nav-item" href="http://next-two-east.github.io/next-two-east/" title="Put on headphones first >_>">Tabloid</a>
-    <a class="nav-item" href="http://next.mit.edu">Next House</a>
+  <nav class="sticky-nav">
+    <div class="container-fluid">
+    <div class="navbar-header">
+      <button id="arrow" type="button" class="navbar-toggle" data-toggle="collapse" data-target="#2togglE">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+      </button>
+      <a class="navbar-brand" href="#">2E</a>
+    </div>
+    <div class="collapse navbar-collapse" id="2togglE">
+      <ul class="nav navbar-nav">
+        <li><a class="nav-item" href="#">People</a></li>
+        <li><a class="nav-item" href="#">Projects</a></li>
+        <li><a class="nav-item" href="http://next-two-east.github.io/next-two-east/" title="Put on headphones first >_>">Tabloid</a></li>
+        <li><a class="nav-item" href="http://next.mit.edu">Next House</a></li>
+      <ul>
+      </div>
+    </div>
   </nav>
 
   <!-- main content -->
@@ -79,6 +90,7 @@
 
 <!-- js -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="js/main.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 </body>
 </html>
