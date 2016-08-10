@@ -5,3 +5,12 @@ The website for 2 East, the second floor east wing of Next House at MIT.
 
 ## How can I help
 Message Claire on facebook if you want to be added to our chat, or you can [submit an issue](https://github.com/next2e/next2e-website/issues) with something you want to see.
+
+## Contributors
+- [cnord](https://github.com/cmnord)
+- [jjz](https://github.com/jenniferjzhang)
+- [wqian](https://github.com/wqian94)
+- [jtxiao](https://github.com/jtxiao)
+- elizdet
+- eman17
+- bstern
