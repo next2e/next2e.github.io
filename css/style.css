@@ -98,14 +98,31 @@ a, a:active {
   background-color: #d5380e;
 }
 
-/* Responsive navbar? */
-@media screen and (min-width: 670px) {
-  /* Do things here to make navbar nice */
-
-
+.content {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
+.img-rounded {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
+  max-width: 100%;
+}
 
+/* Responsive things here */
+@media screen and (min-width: 768px) {
+/* Keep the image and text from getting too wide */
+  .content {
+    width: 70%;
+  }
+
+  .img-rounded {
+    max-width: 60%;
+  }
+}
 
 
 
