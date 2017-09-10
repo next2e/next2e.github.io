@@ -43,7 +43,7 @@ footer {
 }
 
 .container {
-  width: 80%;
+  width: 68%;
   margin: 0 auto;
   padding: 10px 0px;
 }
@@ -132,6 +132,24 @@ footer {
   margin: -6px 0 0 0;
 }
 
+.heading {
+  margin: 20px 0 0 0;
+  text-transform: uppercase;
+}
+
+.section-heading {
+  text-decoration: underline;
+}
+
+.row {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.col-md-4 p {
+  line-height: 140%;
+}
+
 /* Responsive things here */
 @media screen and (max-width: 768px) {
 /* Keep the image and text from getting too wide */
@@ -144,7 +162,7 @@ footer {
   .container {
     font-size: 8px;
     padding: 13px 0px;
-    width: 90%;
+    width: 94%;
   }
 
 }
