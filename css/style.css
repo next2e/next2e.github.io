@@ -1,8 +1,16 @@
 /* Claire's ugly (?) palette
 https://coolors.co/f15025-ffffff-e6e8e6-ced0ce-191919
 */
-body {
-  font-family: 'Karla';
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-family: 'Karla', sans-serif;
+}
+
+p {
+  margin: 0;
 }
 
 h1 {
@@ -14,10 +22,30 @@ a, a:active {
   text-decoration: none;
 }
 
-.content {
+footer {
+  background-color: #F15025;
+  color: #ffffff;
+  font-size: 14px;
+  width: 100%;
   position: relative;
-  margin-top: 6rem;
-  padding: 0 2rem;
+  margin-top: -35px;
+  height: 35px;
+  clear: both;
+}
+
+#wrapper{
+  min-height: 100%;
+}
+
+#main{
+  overflow: auto;
+  padding-bottom: 35px;
+}
+
+.container {
+  width: 68%;
+  margin: 0 auto;
+  padding: 10px 0px;
 }
 
 .sticky-nav {
@@ -37,10 +65,10 @@ a, a:active {
   -webkit-align-items: center;
   -webkit-box-align: center;
 
-  align-items: center; 
+  align-items: center;
 }
 
-.nav-item, .nav-item:visited, .nav-item:active, .navbar-brand, .navbar-brand:visited, .navbar-brand:active {
+.nav-item, .navbar-brand {
   font-family: 'Montserrat';
   color: #FFFFFF;
   font-size: 2rem;
@@ -49,9 +77,26 @@ a, a:active {
   text-decoration: none;
 }
 
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-brand:visited {
+  color: #FFFFFF;
+}
+
+.nav-item:visited {
+  color: #FFFFFF;
+  background-color: #F15025;
+}
+
 .nav-item:hover {
-  text-transform: uppercase;
-  text-decoration: none;
+  background-color: #FFFFFF;
+  color: #F15025;
+}
+
+.navbar-brand:hover {
   background-color: #FFFFFF;
   color: #F15025;
 }
@@ -60,48 +105,14 @@ a, a:active {
   color: #FFFFFF;
 }
 
-.navbar {
-  background-color: #F15025;
-  border-color: #d5380e;
-  color: #bd320c;
-}
-
-.navbar-brand {
-  display: flex;
-  align-items: center;
-}
-
-.navbar-default .navbar-nav .active a, .navbar-default .navbar-nav .active a:hover {
-  background-color: #d5380e;
-  color: #e6e8e6;
-}
-
-.navbar-default .navbar-nav li a {
-  color: #E6E8E6;
-}
-
-.navbar-default .navbar-nav li a:hover {
-  background-color: #ed3e0f;
-  color: #e6e8e6;
-}
-
-.navbar-default .navbar-toggle {
-  background-color: #f15025;
-  border-color: #d5380e;
-}
-
-.navbar-default .navbar-toggle:hover {
-  background-color: #ed3e0f;
-}
-
-.navbar-default .navbar-toggle:active {
-  background-color: #d5380e;
-}
-
 .content {
   display: block;
+  position: relative;
+  width: 70%;
+  margin-top: 6rem;
   margin-left: auto;
   margin-right: auto;
+  padding: 0 2rem;
 }
 
 .img-rounded {
@@ -109,27 +120,49 @@ a, a:active {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 25px;
-  max-width: 100%;
+  width: 60%;
+}
+
+.text{
+  line-height: 150%;
+  margin-bottom: 10px;
+}
+
+#grapes {
+  margin: -6px 0 0 0;
+}
+
+.heading {
+  margin: 20px 0 0 0;
+  text-transform: uppercase;
+}
+
+.section-heading {
+  text-decoration: underline;
+}
+
+.row {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.col-md-4 p {
+  line-height: 140%;
 }
 
 /* Responsive things here */
-@media screen and (min-width: 768px) {
+@media screen and (max-width: 768px) {
 /* Keep the image and text from getting too wide */
   .content {
-    width: 70%;
+    width: 100%;
   }
-
   .img-rounded {
-    max-width: 60%;
+    width: 100%;
   }
+  .container {
+    font-size: 8px;
+    padding: 13px 0px;
+    width: 94%;
+  }
+
 }
-
-
-
-
-
-
-
-
-
-
