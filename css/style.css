@@ -150,6 +150,21 @@ footer {
   line-height: 140%;
 }
 
+.bio {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-bottom: 15px;
+}
+
+.bio-divider {
+  margin: 0 0 10px 0;
+}
+
+.resident-bios {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
 /* Responsive things here */
 @media screen and (max-width: 768px) {
 /* Keep the image and text from getting too wide */
