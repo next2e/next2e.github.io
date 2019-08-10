@@ -1,127 +1,61 @@
 ---
+layout: main
 ---
-<!DOCTYPE html>
-<!-- 2E5EVER
-  Created 2016/08/04
-  Last edited 2016/08/10
-  Source at https://github.com/next2e/next2e-website
--->
-<html>
+<h1>2WebsitE - Residents and Friends</h1>
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="The website for 2 East, the second floor east side wing of Next House, a dorm at MIT.">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>2 East - Next House</title>
-
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-  <link href="https://fonts.googleapis.com/css?family=Karla|Montserrat" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="css/style.css">
-  <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
-  <link rel="icon" href="img/favicon.jpg">
-</head>
-
-<body>
-
-  <div id="wrapper">
-    <div id="main">
-      <!-- Navbar -->
-      <nav class="sticky-nav">
-        <div class="container-fluid">
-          <div class="navbar-header">
-            <button id="arrow" type="button" class="navbar-toggle" data-toggle="collapse" data-target="#2togglE">
-            <span class="glyphicon glyphicon-chevron-left"></span>
-          </button>
-            <a class="navbar-brand" href="index.html">2E</a>
-          </div>
-          <div class="collapse navbar-collapse" id="2togglE">
-            <ul class="nav navbar-nav">
-              <li><a class="nav-item" href="#">People</a></li>
-              <li><a class="nav-item" href="projects.html">Projects</a></li>
-              <li><a class="nav-item" href="photos.html">Photos</a></li>
-              <li><a class="nav-item" href="http://next-two-east.github.io/next-two-east/" title="Put on headphones first >_>">Tabloid</a></li>
-              <li><a class="nav-item" href="http://next.mit.edu">Next House</a></li>
-              <ul>
-          </div>
-        </div>
-      </nav>
-
-      <!-- main content -->
-      <div class="content">
-        <h1>2WebsitE - Residents and Friends</h1>
-
-        <h2 class="heading">Residents</h2>
-        <hr style="margin: 0"/>
-        {% for year in site.data.people.residents %}
-          <h3 class="section-heading">{{ year.year }}'s</h3>
-          <div class="resident-bios">
-            {% for person in year.people %}
-              <div class="bio">
-                <img src="img/people/{{ year.year }}/{{ person.kerberos }}.jpg" title="{{ person.kerberos }}" class="img-thumbnail" onerror="this.onerror = null; this.src = 'img/people/nopic-gourd.png'"/>
-                <h3>{{ person.name }} ({{ person.kerberos }}), '{{ year.year | slice: 2, 2 }}</h3>
-                <h4> Course {{ person.course }} </h4>
-                <p>{{ person.description | newline_to_br | markdownify }}</p>
-              </div>
-            {% endfor %}
-          </div>
-        {% endfor %}
-
-        <h2 class="heading">Alums</h2>
-        <hr class="bio-divider"/>
-        {% for year in site.data.people.alums %}
-        <h3 class="section-heading">{{ year.year }}'s</h3>
-        <div class="resident-bios">
-          {% for person in year.people %}
-          <div class="bio">
-            <img src="img/people/{{ year.year }}/{{ person.kerberos }}.jpg" title="{{ person.kerberos }}" class="img-thumbnail" onerror="this.onerror = null; this.src = 'img/people/nopic-gourd.png'"/>
-            <h3>{{ person.name }} ({{ person.kerberos }}), '{{ year.year | slice: 2, 2 }}</h3>
-            <h4> Course {{ person.course }} </h4>
-            <p>{{ person.description | newline_to_br | markdownify }}</p>
-          </div>
-          {% endfor %}
-        </div>
-        {% endfor %}
-
-        <h2 class="heading">Friends</h2>
-        <hr class="bio-divider"/>
-        <div class="resident-bios">
-          {% for person in site.data.people.friends %}
-          <div class="bio">
-            <img src="img/people/friends/{{ person.kerberos }}.jpg" title="{{ person.kerberos }}" class="img-thumbnail" onerror="this.onerror = null; this.src = 'img/people/nopic-gourd.png'"/>
-            <h3>{{ person.name }} ({{ person.kerberos }}), '{{ person.year | slice: 2, 2 }}</h3>
-            <h4> Course {{ person.course }} </h4>
-            <p>{{ person.description | newline_to_br | markdownify }}</p>
-          </div>
-          {% endfor %}
-        </div>
-
-        <h2 class="heading">King Gourd</h2>
-        <hr class="bio-divider"/>
-        <div class="resident-bios">
-          <div class="bio">
-            <img src="img/people/gourd.jpg" title="gourd" class="img-thumbnail"/>
-            <h3>King Gourd (kgourd), '15</h3>
-            <h4> Course 23 </h4>
-            <p>King Gourd humbly overlooked the masses of 2E, 2015-2015. He will be missed, though his portrait remains
-              in his honor. </p>
-          </div>
-        </div>
+<h2 class="heading">Residents</h2>
+<hr style="margin: 0"/>
+{% for year in site.data.people.residents %}
+  <h3 class="section-heading">{{ year.year }}'s</h3>
+  <div class="resident-bios">
+    {% for person in year.people %}
+      <div class="bio">
+        <img src="img/people/{{ year.year }}/{{ person.kerberos }}.jpg" title="{{ person.kerberos }}" class="img-thumbnail" onerror="this.onerror = null; this.src = 'img/people/nopic-gourd.png'"/>
+        <h3>{{ person.name }} ({{ person.kerberos }}), '{{ year.year | slice: 2, 2 }}</h3>
+        <h4> Course {{ person.course }} </h4>
+        <p>{{ person.description | newline_to_br | markdownify }}</p>
       </div>
-    </div>
+    {% endfor %}
   </div>
+{% endfor %}
 
-  <!-- Footer -->
-  <footer>
-    <div class="container">
-      <p>2WebsiteE © 2017; Made with frozen grapes by residents of 2E <i id="grapes" class="em em-grapes"></i></p>
-    </div>
-  </footer>
+<h2 class="heading">Alums</h2>
+<hr class="bio-divider"/>
+{% for year in site.data.people.alums %}
+<h3 class="section-heading">{{ year.year }}'s</h3>
+<div class="resident-bios">
+  {% for person in year.people %}
+  <div class="bio">
+    <img src="img/people/{{ year.year }}/{{ person.kerberos }}.jpg" title="{{ person.kerberos }}" class="img-thumbnail" onerror="this.onerror = null; this.src = 'img/people/nopic-gourd.png'"/>
+    <h3>{{ person.name }} ({{ person.kerberos }}), '{{ year.year | slice: 2, 2 }}</h3>
+    <h4> Course {{ person.course }} </h4>
+    <p>{{ person.description | newline_to_br | markdownify }}</p>
+  </div>
+  {% endfor %}
+</div>
+{% endfor %}
 
-  <!-- js -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-  <script src="js/main.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-</body>
+<h2 class="heading">Friends</h2>
+<hr class="bio-divider"/>
+<div class="resident-bios">
+  {% for person in site.data.people.friends %}
+  <div class="bio">
+    <img src="img/people/friends/{{ person.kerberos }}.jpg" title="{{ person.kerberos }}" class="img-thumbnail" onerror="this.onerror = null; this.src = 'img/people/nopic-gourd.png'"/>
+    <h3>{{ person.name }} ({{ person.kerberos }}), '{{ person.year | slice: 2, 2 }}</h3>
+    <h4> Course {{ person.course }} </h4>
+    <p>{{ person.description | newline_to_br | markdownify }}</p>
+  </div>
+  {% endfor %}
+</div>
 
-</html>
+<h2 class="heading">King Gourd</h2>
+<hr class="bio-divider"/>
+<div class="resident-bios">
+  <div class="bio">
+    <img src="img/people/gourd.jpg" title="gourd" class="img-thumbnail"/>
+    <h3>King Gourd (kgourd), '15</h3>
+    <h4> Course 23 </h4>
+    <p>King Gourd humbly overlooked the masses of 2E, 2015-2015. He will be missed, though his portrait remains
+      in his honor. </p>
+  </div>
+</div>
