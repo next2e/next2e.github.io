@@ -1,0 +1,588 @@
+residents:
+  - year: 2020
+    people:
+      - name: Jessica
+        kerberos: jynnie
+        course: CMS
+        description: >
+          Heyo! I'm Jessica/Jynnie, your resident werewolf playing for the tanner's team~ I like going on late night
+          adventures (though late afternoon and evening are also acceptable), randomly cooking, being on Next Exec
+          (Housing Couch :0), gaming and animu, and having visitors (so come in)!
+      - name: Dillon
+        kerberos: dzhang98
+        course: 6-3
+        description: >
+          If you need someone to take on more commitments, hit me up!
+      - name: Cory
+        kerberos: cor
+        course: 6-3
+        description: >
+          Proud to be memeing in the main lounge day and night. I'm an avid ramen, fountain pen, Python, anime, and osu
+          enthusiast. Sometimes, I'll be coding random stuff or excessively buying web domains and filling them with
+          useless trash. But mostly, I just like to waste time with my friends here in 2e.
+      - name: Cynthia
+        kerberos: cynliu98
+        course: 6-3/18
+        description: >
+          Your local Diglett provider. Guaranteed to be enthusiastic, to enjoy math, and to worry about (but delight
+          in) CS*
+
+          *This statement has not been evaluated by an unbiased panel of Digletts. May cause side effects, including
+          but not limited to confusion and extra food.
+      - name: Melody
+        kerberos: meltan
+        course: 20
+        description: >
+          This description of Melody is so good because she is a bio engineer. One of 2 2020 course 20's on 2E, Melody
+          enjoys wordplay, theatre, card games, jokes, japes, a short stir-fry line, and EMS. See you all at 5:30
+          dinner club :D
+      - name: Matt/"Joon"
+        kerberos: mfarejow
+        course: 18C
+        description: >
+          Hey, it's Matt! I enjoy long embraces, hand-holding, midnight walks by the Charles, and deep conversations.
+          Hit me up if you want to discuss memes, video games, anime, maths, or anything really =D
+      - name: Caleb (Brigadier General Kale "Quinoa" Riccson) Richardson
+        kerberos: calebr
+        course: 3
+        description: >
+          I'm Caleb! I live in 251 with those cowards Joon and Cory. I like Studio C, Audio/Visual things, Smash, and
+          fashion. Come talk to me if you need help with an outfit, or if you have a really funny joke, or if you need
+          help setting up a sound system.
+      - name: Shannon
+        kerberos: hwangys
+        course: 2A
+        description: >
+          Actual conversation between Shannon and I:
+
+          Matt: "Shannon, come up with a bio for yourself right now"
+
+          Shannon: ......
+
+          Shannon: "yeah"
+
+          Matt: "That's your bio? You know this is going to be immortalized forever"
+
+          Shannon: "yeah"
+      - name: Enrico Micali
+        kerberos: emicali
+        course: 6-3
+        description: >
+          Picciriddu siculo. Feel free to chat to man about soccer, music, language, or the pengest munch. Or New House
+          (we out here).
+      - name: Joey
+        kerberos: jnoszek
+        course: 1
+        description: >
+          Fellow 2E memer
+      - name: Joonho
+        kerberos: joonhok
+        course: 6-3
+        description: >
+          hi! i'm one of the boys in 251. things you will probably see me doing on hall is playing guitar hero, hacking
+          at math, learning a language, and ranting about how adc is a useless role in league. i'm always happy to talk
+          to someone new and learn new things, so come hang out and let's be friends! :D
+      - name: Michelle
+        kerberos: mntan
+        course: 6-3
+        description: >
+          Fellow 2E memer
+      - name: Bill
+        kerberos: wpinney
+        course: 20
+        description: >
+          As current Chief of the 2EDectives, Producer of Next Haunt, Alumni Relations Chair of Next House, Medlink,
+          Tour Guide, and ~~all other things that the seniors roped me into~~ all of the other things that I enjoy
+          doing, I spend a lot of my time trying to make sure that this wonderful community doesn’t catch fire, and
+          that the youngins’ don’t trample on the lawn. I love spending time, talking, debating, singing, joking acting
+          and in general spending time with the awesome people I get to live with. If you’re ever in the
+          2-east-next-exec-health-corner make sure to stop by, I’d love to chat!
+      - name: Hannah
+        kerberos: hjloizzo
+        course: 10
+        description: >
+          I really like to sing and make high pitched noises. If you hear EDM, it's more than likely coming from my
+          room. I also enjoy drinking boba and walks into Boston late at night. I really love talking to people, and
+          unless I am super hosed, my door will be open, so you should come visit!! Also come practice French with me
+          because I need to keep my conversation skills sharp. :D
+      - name: Emily
+        kerberos: emilyhu
+        course: 6-3
+        description: >
+          I like making noise that people sometimes misconstrue as singing
+      - name: Kevin
+        kerberos: sunkevin
+        course: 6-3
+        description: >
+          Ask me about Galois Theory. But also ask me about life, love, and the meaning of the universe.
+      - name: Jerry
+        kerberos: jerrymei
+        course: 18
+        description: >
+          Transfer student with the god robe
+      - name: Thee
+        kerberos: thee
+        course: ??
+        description: >
+          Fellow 2E memer
+  - year: 2021
+    people:
+      - name: Johaun
+        kerberos: johaunh
+        course: ??
+        description: >
+          Fellow 2E memer
+      - name: Michael
+        kerberos: manoke
+        course: ??
+        description: >
+          Fellow 2E memer
+      - name: Pablo
+        kerberos: pvillalo
+        course: ??
+        description: >
+          Fellow 2E memer
+      - name: Kaylee
+        kerberos: kdesoto
+        course: 8
+        description: >
+          ¯\_(ツ)_/¯
+      - name: Tommy
+        kerberos: tadebiyi
+        course: 2 or 16
+        description: >
+          Hello! It's-a me, Thomas! I was born and raised in the suburbs of Pittsburgh, known for it's rivers, bridges,
+          and hills (oh my), while my parents are from Nigeria. Some of my interests include watching Formula 1 racing
+          (poor Alonso) as well as car racing in general, playing video games (especially racing games, Smash, and
+          various others), and sometimes dabbling into the world of singing and music.
+
+          I also speak approximately 1.4 languages. Don't ask about the breakdown.
+
+          Fun fact: pretty much all post-WW2 British tanks come with a heated kettle to make tea out on the field. Yes
+          you just subscribed to Tank Facts™.
+      - name: Alyssa
+        kerberos: alyssawl
+        course: 6-2
+        description: >
+          I'm a New Jerseyan that doesn't have the accent! :P I love everything music (violin, piano, and viola are my
+          specialties), and I'm in the A cappella group Resonance! My favorite dish is Chicken Tikka Masala, and my
+          favorite color is lavender. I'm bubbly and outgoing, and frighteningly good with names; so please, you're
+          always to come say hi! I'd love to get to know you! :) <3
+      - name: Audrey
+        kerberos: audreysa
+        course: ??
+        description: >
+          Fellow 2E memer
+      - name: Katie
+        kerberos: kkutina
+        course: ??
+        description: >
+          Fellow 2E memer
+      - name: Beining "Jenny"
+        kerberos: beining
+        course: 6/18
+        description: >
+          Sabrina and Carolina's roommate. Enjoys Pilot G2 .38mm pens.
+      - name: Carolina
+        kerberos: cortegap
+        course: TBD
+        description: >
+          Jenny and Sabrina's roommate. Enjoys dining hall's cookies.
+      - name: Sabrina
+        kerberos: sabliu
+        course: 6
+        description: >
+          Carolina and Jenny's roommate. Enjoys milk tea.
+  - year: 2022
+    people:
+  - year: 2023
+    people:
+alums:
+  - year: 2019
+    people:
+      - name: Michelle
+        kerberos: mxchen
+        course: 2
+        description: >
+          i play lots of frisbee and drink lots of coffee and boba. go pats
+      - name: Felipe
+        kerberos: fquesada
+        course: 3
+        description: >
+          Fellow 2E Memer
+      - name: Claire
+        kerberos: cnord
+        course: 6-3
+        description: >
+          - Member of the Room 250 Wing Mom Trio (successors to the Room 251 Wing Dad Trio)
+
+          - Like Jennifer but sporty
+
+          - Loves 3/4 sweatpants but hates gaucho pants
+
+          - Ruthless clutter exterminator
+      - name: Elizabeth
+        kerberos: elizdet
+        course: 6-3
+        description: >
+          I love people, food, playing ukulele, makeup, frosting cakes, lifting weights, studying medical injuries, and
+          God. I'm always happy to chat or help out with anything! Within the dorm, I have participated as a 2E
+          wingrep, the Next Haunt Makeup Co-Director, and a Next Service Co-President. I also helped out with Random
+          Acts of Kindness (RAK) week and participated in Athletes in Action. I'm so happy to live in the 2E community
+          <3.
+      - name: Shavina
+        kerberos: shavinac
+        course: 6-3
+        description: >
+          AKA: Shacha, &Co., shavinac. Likes chocolate, playing Smash, and the #nextexeclife. Not a memer of the 5'0
+          and above club, proud memer of the 2E Bad Decision Club.
+      - name: Michelle
+        kerberos: liumich
+        course: 24-2
+        description: >
+          Shitposter by trade, your friendly neighborhood dumpster gremlin and unofficial enforcer of the Great Grains
+          Rule. Semi-permanent main lounge fixture usually to be found working (read: watching anime of dubious
+          quality) or reciting the freshest memes. 2E's biggest sukeota (fite me Alicia), constantly trying to convince
+          people to tie knives to their feet for funsies. Will respond to liumich, Jorj or any variations thereof to
+          differentiate from mxchen and mntan.
+      - name: Monica
+        kerberos: mpham
+        course: 22
+        description: >
+          Yo I'm Monica. I'm from good ol Nebraska (yes there are people there) and I love dogs and cats and puns and
+          food. Stop by if you want to listen to some cool music or if you have boba.
+      - name: Aubrey
+        kerberos: agavin
+        course: 9 (20? 6-7?????)
+        description: >
+          Hi! I love to travel with friends and family (I've visited 17 countries!) , go hiking, run, play piano and
+          viola, and go to concerts and music festivals. I love meeting new people and I party a lot on the weekends.
+          I'm also a member of MIT's Cheerleading Team, and an avid member of the 5:30 dinner club.
+      - name: Olivia
+        kerberos: saouaf
+        course: 3
+        description: >
+          Hi! I'm Olivia and I like warm hugs, spontaneous or highly choreographed dancing, and energetic music while
+          folding laundry. I looove being a part of DanceTroupe (attempts at coolness) and Next Act (choreographing and
+          mermaiding).
+      - name: Janelle
+        kerberos: jcsands
+        course: 6-3
+        description: >
+          I have trouble turning down an opportunity to play cello, love spending an hour eating dinner with my 2E
+          family, will nicely pester people to go on walks or adventures with me, and occasionally will say peculiar
+          things if you listen close enough.
+      - name: Alicia
+        kerberos: aliciao
+        course: 6-3
+        description: >
+          Obsessed with succulents, potoos, and Hamilton. Seriously, can I get serenaded with Wait For It? Bonus points
+          if it comes with food.
+      - name: Deuce
+        kerberos: deuce
+        course: 9
+        description: >
+          "I enjoy music and acting, so you can often find me performing with my A cappella group, The MIT Logarhythms,
+          or taking part in Next Act. When I'm not on stage, some of my hobbies include music composition, as well as
+          gaming and game development. I'm also a huge science fiction and nerd culture buff. Don't panic, and always
+          know where your towel is!"
+      - name: Alvaro
+        kerberos: ajmel
+        course: 2
+        description: >
+          Hey there! I’m Alvaro, an international student from El Salvador and I’m currently studying Mechanical
+          Engineering. In my free time I like making things and playing Smash! I live in room 257, you’re welcome to
+          pop in and ask me any questions! :)
+      - name: Alex
+        kerberos: adenmark
+        course: 3
+        description: >
+          Materials Engineer, Quahogger, Woodcarver, Cape Codder, Patriots fan, Cru man. Swing by 243 for a chat!
+      - name: Tanat
+        kerberos: tanatk
+        course: ??
+        description: >
+          Fellow 2E memer
+      - name: Abishkar
+        kerberos: abishkar
+        course: ??
+        description: >
+          Fellow 2E memer
+  - year: 2018
+    people:
+      - name: Mitchell
+        kerberos: mdhwang
+        course: 6-2
+        description: >
+          Manga. Turtles. Food. Games. Sports. :^)
+      - name: Olivia
+        kerberos: ochong
+        course: 6
+        description: >
+          Fellow 2E memer
+      - name: Logan
+        kerberos: label
+        course: 22
+        description: >
+          An aspiring nuclear engineer from Iowa (and a few other places) who enjoys the outdoors, cooking, reading,
+          physics, learning new things, deep conversations and figuring out how we can build stronger communities. Feel
+          free to stop by! :-)
+      - name: Nina
+        kerberos: nanwar
+        course: 10
+        description: >
+          Your resident night owl and taekwondo/MITSO recruiter. Recently moved to 2E from 5E. Known for leaving Next
+          at 12:30am to go to main campus with a violin (or was it 1am? 2? 3? 4?????) Does she ever sleep? No, because
+          she's Course X. :( Feel free to stop by and say hi! Or strike up a conversation at 5:30 dinner :)
+      - name: Renee
+        kerberos: rtzhao
+        course: 5-7
+        description: >
+          Boba enthusiast
+      - name: Bremy
+        kerberos: bremyalb
+        course: 20
+        description: >
+          Fellow 2E memer
+
+  - year: 2017
+    people:
+      - name: Brenda
+        kerberos: bstern
+        course: 1-ENG
+        description: >
+          Once upon a time, I sold my soul to Next House. Apparently turning my rat in June 2017 also freed my soul and
+          now I have time to devote to other things, like finding fun goat calendars, taking care of my plants, and
+          staring at bridges.
+      - name: Justin
+        kerberos: jtxiao
+        course: 8/6-1
+        description: >
+          Hi everyone! I'm Justin, and I'm known for my antics and good looks. When I'm not Ridin', I can be found
+          singing with Resonance, my A cappella group, or being Asian with Association of Taiwanese Students (ATS). I
+          have a bunch of hobbies, like physics, building stuff, music production, music in general, recently
+          photography, and RAMEN!!!!! Come say hi and give me sum o' dat noodly good stuff.
+      - name: Jennifer
+        kerberos: jjz
+        course: 6-3
+        description: >
+          I'm Jennifer Zhang, and you might know me from things like HackMIT or Resonance. I like hacking and designing
+          things, singing and playing guitar, and just hanging out with people. I know this is a pretty boring/generic
+          bio. (You should just talk to me in person :p)
+      - name: Michael
+        kerberos: mbchang
+        course: 6-3
+        description: >
+          yo
+      - name: Eli
+        kerberos: sadovnik
+        course: 18
+        description: >
+          I was going to write a satirical bio about why I'm a Trump supporter (lolnope), but it turns out I'm too
+          scared someone would take it seriously. That's one thing you'll learn about me if you know me well. I like to
+          project this persona where the highest joy I get is in doing the most clever thing in whatever situation I'm
+          in, regardless of what other people will think of me (I mean just look at this stupid, pretentious,
+          self-reflective bio -- this shit is supposed to be light-hearted). Ironically, in reality I'm just an asshole
+          who wants people to think he's smart. So think I'm smart. Please?
+      - name: Will
+        kerberos: wreyes
+        course: 6-3
+        description: >
+          Hey everyone, I'm Will! 8am Breakfast Club President by morning, 2East Detective by night. I love spending
+          time with people in 2East, whether it be through video games, watching movies, going out, or just sitting and
+          chatting. I usually am out in the lounge or in my room (adjacent to the lounge) with the door open so feel
+          free to come by!
+      - name: Carlos
+        kerberos: carlosh
+        course: 6-3
+        description: >
+          Coffee lover | Avid Smash Player | Amateur Masseuse Harro! I'm one of the two Carloses in 2East. I'm from LA
+          but spent most of my early years growing up in a small village in Honduras. I love playing Smash (I main
+          Corrin in 4, Luigi in anything before that), drinking coffee, hanging out with friends, hugs, and giving
+          shoulder massages. If you see me in the infinite and would like a hug or massage, feel free to stop me and
+          ask for one! (Alicia can attest to the truth behind this statement). I can mostly be found hanging out in the
+          lounge or psetting in my room (right next to Will's #rip239thedream). Stop by and say hi!
+      - name: Emmanuel
+        kerberos: eman17
+        course: 18C
+        description: >
+          Wandering nomad, Drills wood and solves equations, Some call him, calcboy.
+      - name: Max
+        kerberos: maxmajor
+        course: 22
+        description: >
+          Fellow 2E Memer
+      - name: Andrew
+        kerberos: ahtang
+        course: 20
+        description: >
+          Hi! My name is Andrew, the 2 East Peer Mentor. I live in room 251 with Harry and Bennett... in the same room,
+          all four years. I play lots of different instruments, so feel free to borrow one anytime! On campus I am a
+          tour guide, EMT, and Associate Advisor. Feel free to ask me any questions about Next House, Students, or
+          medical emergencies (but please go to your MedLink first).
+      - name: Bennett
+        kerberos: bamo
+        course: 6-3
+        description: >
+          I go by many names, but most people call me Bennett or Brobi. I basically live in the lounge, day and night.
+          I am a founding member of the 2e sentinels, 2e trolls, and Strong Man Zach & Moving Co. I'm also involved in
+          furniture boiz, P I Z Z A B O I Z and 2partE. I'm in room 251 with Andrew and Harry, the greatest roommates
+          ever (why do you think we're still living together as seniors?).
+      - name: Harry
+        kerberos: hthaman
+        course: 3
+        description: >
+          When not sleeping in room 251, I'm probably in the lounge yelling about helldivers, debating Michael about
+          something obscure or making bad puns to make people laugh.
+      - name: Bekah
+        kerberos: rlthomp
+        course: 20
+        description: >
+          Fellow 2E memer
+      - name: Famien
+        kerberos: fakoko
+        course: 6-3
+        description: >
+          Fellow 2E memer
+      - name: Manuel
+        kerberos: mccastro
+        course: 2
+        description: >
+          What do you want? What am I supposed to put here? I like music, a lot. I do a radio show called QV Noise on
+          WMBR. Umm... I'm the only MedLink you will ever need. Oh, I back a lot of Kickstarter projects. And I'm a
+          Mechanical Engineer :D
+      - name: Fred
+        kerberos: fdaso
+        course: 16
+        description: >
+          Fellow 2E memer
+      - name: Lucas
+        kerberos: coelho
+        course: ??
+        description: >
+          Fellow 2E memer
+      - name: Carlos
+        kerberos: cuevas
+        course: 16
+        description: >
+          Fellow 2E memer
+      - name: Orlando
+        kerberos: orlandow
+        course: 2
+        description: >
+          Fellow 2E memer
+      - name: Lisa
+        kerberos: lyang33
+        course: 16
+        description: >
+          Fellow 2E memer
+  - year: 2016
+    people:
+      - name: Ben
+        kerberos: benolds
+        course: 6-3
+        description: >
+          - Ben(olds) is a member of the 2E Detectives, Anime Boiz, 2brawnE, and was a member of the quitters club
+          (until he quit), among other organizations.
+
+          - Likes to pretend he’s a 2017 so much that he stayed for another year.
+
+          - Ben’s allegiance was once pledged to TechX but he can now proclaim “2E before blood” without a hint of
+          falseness.
+
+          - Likes making iPhone apps, which he subsequently promises to port to Android but never does.
+
+          - Enjoys startup life, puns, gaming or making games, watching movies / anime, running, music, chilling with
+          friends, and letting the collective weirdness of 2E slowly rub off on him.
+      - name: Sam
+        kerberos: sambish
+        course: 16
+        description: >
+          Justin got on my friggin' nerves for this thing. You'll hear me referred to as grumpy Sam. Also Remy Grandma.
+          And some other things.
+      - name: Andrew
+        kerberos: awk
+        course: ????????????????????
+        description: >
+          awk
+friends:
+  - name: Erin
+    kerberos: erinreyn
+    year: 2017
+    course: 1
+    description: >
+      I like climbing trees (there is a nice tree by the tennis courts outside next), running (the esplanade is a
+      wonderful place), hiking (the white mountains in nh are the closest good mountains), art, chocolate, honey,
+      barnacles, and exploring boston. I used to live in 2E, then moved to Fenway House in Boston last year, and this
+      year I am living in New House! Feel free to visit and eat my food!
+  - name: Caitlin
+    kerberos: caitlinf
+    year: 2018
+    course: 8/22?
+    description: >
+      talk to me about physics / space / nuclear science / music / hong kong / UFOs / anything! i should probably spend
+      more time on 2e.
+  - name: William
+    kerberos: wqian94
+    year: 2016
+    course: 6-3/18
+    description: >
+      Once upon a time (2012), in a land far, far away (Maseeh), a young then-freshman (yours truly) lived in a red
+      brick castle (see above). For years he thought that college had everything he could ask for. Then, everything
+      changed when the grades attacked. Only true family could save this lost soul, and when he needed them the most,
+      benolds invited him into 2e.
+
+      Other than mixing references and being a general nerd (see: vidya games, anime, star trek, and CS jokes), I also
+      like to confuse the unsuspecting with my history on 2e.
+
+      Anyways, I like to learn a bit of everything, so if you have something fun/interesting/cool/etc to share, count
+      me in.
+  - name: Weilian
+    kerberos: weilian
+    year: 2017
+    course: 6-3
+    description: >
+      justin's foreskin
+  - name: Marianna
+    kerberos: magudelo
+    year: 2016
+    course: 7
+    description: >
+      You will most likely never see me. But if I do visit the floor, I might be running down the wing using a garbage
+      bag as a superman cape.
+  - name: Wei Xun
+    kerberos: weixunhe
+    year: 2018
+    course: 2
+    description: >
+      Hey, I am a rising junior studying Mechanical Engineering. I am the first from my family to attend college. I
+      love playing sports, watching the NBA and any ball sports or races. If I ever have free time or is feeling 😭, I
+      can probably be found biking down Charles or shooting hoops in the Z. I was originally born in Taishan, China,
+      then moved to Guang Zhou to study till 4th grade, then immigrated to NY for school until MIT. I have a brother 6
+      year younger than me.
+  - name: Cheyenne
+    kerberos: cheyenne
+    year: 2019
+    course: 2
+    description: >
+      Fellow 2E memer
+  - name: Elina
+    kerberos: elinas
+    year: 2020
+    course: 8 / 6-1
+    description: >
+      What's that? Is it a bird? A cyclotron? A supernova? No it's Elina, your friendly neighborhood 2E non-resident
+      who lives across the MacG wind tunnel. Talk to me about physics, EE, and stuff. Buy one conversation get 5
+      lessons on Greek roots for free.
+  - name: Xiaolu
+    kerberos: xiaolu20
+    year: 2020
+    course: 6-3
+    description: >
+      Actually, she might live in 2E now that I think about it.
+  - name: Alexis
+    kerberos: alexis
+    year: 2019
+    course: 20
+    description: >
+      Fellow 2E memer
