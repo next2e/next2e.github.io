@@ -14,3 +14,8 @@ Message Claire on facebook if you want to be added to our chat, or you can [subm
 - elizdet
 - eman17
 - bstern
+
+## License
+The code used in this repository is licensed under the `MIT License`. All
+other media used on the website, located under the  `img/` directory, have
+their rights reserved.
