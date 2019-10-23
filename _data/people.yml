@@ -198,6 +198,14 @@ residents:
         description: >
           Can often be spotted making popcorn in the lounge. Other interests include singing and playing cello and
           trying out new things :)
+      - name: Cassidy
+        kerberos: cfialkie
+        course: 6-2
+        description: >
+          Hi! I'm Cassidy a 2022 from Buffalo, NY who is the queen of overcommitment. I spend almost all of my spare
+          time in rehearsal for my a cappella group, the Muses, and Musical Theater Guild, and will frequently utter
+          the statement "sorry I can't, I have rehearsal." Besides singing, I'm also an avid soccer and Broadway fan,
+          and love to spend time with all of the extraordinary people of 2E.
       - name: Matt
         kerberos: byrdm
         course: 6-3
