@@ -24,46 +24,39 @@ residents:
         kerberos: cynliu98
         course: 6-3/18
         description: >
-          Your local Diglett provider. Guaranteed to be enthusiastic, to enjoy math, and to worry about (but delight
-          in) CS*
-
-          *This statement has not been evaluated by an unbiased panel of Digletts. May cause side effects, including
-          but not limited to confusion and extra food.
+          Hi! I’m Cynthia. I’m a senior going on freshman who nearly breaks every bike I use, occasionally makes milk
+          tea, loves machine learning but gets scared of code, plays very loud clarinet, and mistook a random white
+          woman in a supermarket as my mom in 2019. I’ve lived in 2E all 4 years of undergrad and I haven’t regretted
+          it since.
       - name: Melody
         kerberos: meltan
         course: 20
         description: >
-          This description of Melody is so good because she is a bio engineer. One of 2 2020 course 20's on 2E, Melody
-          enjoys wordplay, theatre, card games, jokes, japes, a short stir-fry line, and EMS. See you all at 5:30
-          dinner club :D
+          This description of Melody is so good because she is a bio engineer. One of 2 2020 course 20’s on 2E, Melody
+          enjoys wordplay, theatre, card games, jokes, and teaching CPR. As a licensed EMT, Melody is always ready to
+          provide medical attention or emotional support all day every day.
       - name: Matt/"Joon"
         kerberos: mfarejow
         course: 18C
         description: >
           Hey, it's Matt! I enjoy long embraces, hand-holding, midnight walks by the Charles, and deep conversations.
           Hit me up if you want to discuss memes, video games, anime, maths, or anything really =D
-      - name: Caleb (Brigadier General Kale "Quinoa" Riccson) Richardson
+      - name: Caleb (Kale)
         kerberos: calebr
         course: 3
         description: >
-          I'm Caleb! I live in 251 with those cowards Joon and Cory. I like Studio C, Audio/Visual things, Smash, and
-          fashion. Come talk to me if you need help with an outfit, or if you have a really funny joke, or if you need
-          help setting up a sound system.
+          The only course 3 on 2E (at the moment). Likes mandarin oranges and chicken on a stick... but not together.
+          Hit me up if you wanna chat about Smash, Pokemon, animation, lock picking, technology transfer,
+          blacksmithing, courseroads, and most importantly, fashion.
       - name: Shannon
         kerberos: hwangys
-        course: 2A
+        course: 6-2
         description: >
-          Actual conversation between Shannon and I:
+          "yuh: music, trivia, exploration, maseeh dining, water slides
 
-          Matt: "Shannon, come up with a bio for yourself right now"
+          not yuh: turning the planet into a dumpster fire
 
-          Shannon: ......
-
-          Shannon: "yeah"
-
-          Matt: "That's your bio? You know this is going to be immortalized forever"
-
-          Shannon: "yeah"
+          down to walk/talk/hang out!"
       - name: Enrico Micali
         kerberos: emicali
         course: 6-3
@@ -74,7 +67,7 @@ residents:
         kerberos: jnoszek
         course: 1
         description: >
-          Fellow 2E memer
+          I do Course 1 and theatre stuff.
       - name: Joonho
         kerberos: joonhok
         course: 6-3
@@ -149,30 +142,29 @@ residents:
           ¯\_(ツ)_/¯
       - name: Tommy
         kerberos: tadebiyi
-        course: 2 or 16
+        course: 2
         description: >
-          Hello! It's-a me, Thomas! I was born and raised in the suburbs of Pittsburgh, known for it's rivers, bridges,
-          and hills (oh my), while my parents are from Nigeria. Some of my interests include watching Formula 1 racing
-          (poor Alonso) as well as car racing in general, playing video games (especially racing games, Smash, and
-          various others), and sometimes dabbling into the world of singing and music.
-
-          I also speak approximately 1.4 languages. Don't ask about the breakdown.
+          "Hello! I was born and raised in the suburbs of Pittsburgh while my parents are from Nigeria. Some of my
+          interests include watching motorsports (esp. F1, poor Gasly), playing video games (especially racing games,
+          rhythm games (im bad at them tho), Smash, and various others), and sometimes dabbling into the world of
+          singing and music and foreign languages.
 
           Fun fact: pretty much all post-WW2 British tanks come with a heated kettle to make tea out on the field. Yes
-          you just subscribed to Tank Facts™.
+          you just subscribed to Tank Facts™."
       - name: Alyssa
         kerberos: alyssawl
-        course: 6-2
+        course: 2
         description: >
-          I'm a New Jerseyan that doesn't have the accent! :P I love everything music (violin, piano, and viola are my
-          specialties), and I'm in the A cappella group Resonance! My favorite dish is Chicken Tikka Masala, and my
-          favorite color is lavender. I'm bubbly and outgoing, and frighteningly good with names; so please, you're
-          always to come say hi! I'd love to get to know you! :) <3
+          Hi there! I'm one of yfn music nerds (whether it be a cappella, violin, or piano!) and I'm frighteningly good
+          with names; so please, come by anytime and say hi! New friends are the best friends :)
       - name: Audrey
         kerberos: audreysa
-        course: ??
+        course: 8
         description: >
-          Fellow 2E memer
+          Hello! I'm another friendly 2East-er from New York. I am on the gymnastics team and part of Medlink's exec. I
+          am happiest when doing outdoorsy things, dancing at parties, meeting new people, having deep life
+          discussions, pondering physics, or strangely combining the above. In short,  please come say hello if a) you
+          need medical help, b) you're interested in an adventure, or c) you are a human being :)
       - name: Katie
         kerberos: kkutina
         course: ??
@@ -190,11 +182,34 @@ residents:
           Jenny and Sabrina's roommate. Enjoys dining hall's cookies.
       - name: Sabrina
         kerberos: sabliu
-        course: 6
+        course: 6-2
         description: >
-          Carolina and Jenny's roommate. Enjoys milk tea.
+          Not-teenage not-witch who really likes boba, pizza, and cookies. Feel free to stop by and chat anytime! :)
+      - name: Jaeyoung
+        kerberos: jungj
+        course: 6-1
+        description: >
+          Not the least interesting person you've ever met. Guaranteed or your money back.
   - year: 2022
     people:
+      - name: Diana
+        kerberos: dcrenter
+        course: 20
+        description: >
+          Can often be spotted making popcorn in the lounge. Other interests include singing and playing cello and
+          trying out new things :)
+      - name: Matt
+        kerberos: byrdm
+        course: 6-3
+        description: >
+          Resident memelord and degenerate. Decent at Smash and rhythm games but will throw down on Mario Kart given
+          the opportunity. Upholder of 5:30 dinner club, and loves spending time in the main lounge. Otherwise just a
+          typical gaming/some anime/CS nerd, not to be confused for the other Matt
+      - name: Michael
+        kerberos: mwnguyen
+        course: 6-2
+        description: >
+          2E resident, Kubernetes enthusiast, Touhou music professor. Is competent on rare occasions.
   - year: 2023
     people:
 alums:
@@ -214,13 +229,7 @@ alums:
         kerberos: cnord
         course: 6-3
         description: >
-          - Member of the Room 250 Wing Mom Trio (successors to the Room 251 Wing Dad Trio)
-
-          - Like Jennifer but sporty
-
-          - Loves 3/4 sweatpants but hates gaucho pants
-
-          - Ruthless clutter exterminator
+          2E before blood 🤘
       - name: Elizabeth
         kerberos: elizdet
         course: 6-3
@@ -240,11 +249,9 @@ alums:
         kerberos: liumich
         course: 24-2
         description: >
-          Shitposter by trade, your friendly neighborhood dumpster gremlin and unofficial enforcer of the Great Grains
-          Rule. Semi-permanent main lounge fixture usually to be found working (read: watching anime of dubious
-          quality) or reciting the freshest memes. 2E's biggest sukeota (fite me Alicia), constantly trying to convince
-          people to tie knives to their feet for funsies. Will respond to liumich, Jorj or any variations thereof to
-          differentiate from mxchen and mntan.
+          Language is extremely fake, but that doesn't stop me from talking people's heads off as I careen from one
+          hyperfixation to another: figure skating, literature, anime, the meme du jour, what have you. Said chatterbox
+          has been transplanted to the west coast for the time being, but worry not, you haven't seen the last of me.
       - name: Monica
         kerberos: mpham
         course: 22
