@@ -1,15 +1,17 @@
 ---
 layout: main
 ---
-<h1>2WebsitE - Residents and Friends</h1>
 
-<h2 class="heading">Residents</h2>
+# 2WebsitE - Residents and Friends
 
-<hr style="margin: 0" />
+## RESIDENTS
+
+---
 
 {% for year in site.data.people.residents %}
 
-<h3>{{ year.year }}s</h3>
+### {{ year.year }}s
+
 <div class="resident-bios">
   {% for person in year.people %}
   {% include bio.html year=year.year name=person.name kerberos=person.kerberos course=person.course description=person.description %}
@@ -18,13 +20,13 @@ layout: main
 
 {% endfor %}
 
-<h2 class="heading">Alums</h2>
+## ALUMS
 
-<hr class="bio-divider" />
+---
 
 {% for year in site.data.people.alums %}
 
-<h3 class="section-heading">{{ year.year }}s</h3>
+### {{ year.year }}s
 
 <div class="resident-bios">
   {% for person in year.people %}
@@ -33,9 +35,9 @@ layout: main
 </div>
 {% endfor %}
 
-<h2 class="heading">Friends</h2>
+## FRIENDS
 
-<hr class="bio-divider" />
+---
 
 <div class="resident-bios">
   {% for person in site.data.people.friends %}
@@ -43,9 +45,9 @@ layout: main
   {% endfor %}
 </div>
 
-<h2 class="heading">King Gourd</h2>
+## KING GOURD
 
-<hr class="bio-divider" />
+---
 
 <div class="resident-bios">
   {% capture gourd_bio %}
