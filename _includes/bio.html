@@ -1,0 +1,12 @@
+<div class="bio">
+    <img src="{{ site.url }}/img/people/{{ include.year }}/{{ include.kerberos }}.jpg" title="{{ include.kerberos }}"
+        class="img-thumbnail" onerror="this.onerror = null; this.src = '{{ site.url }}/img/people/nopic-gourd.png'" />
+    <h3>
+        {{ include.name }} ({{ include.kerberos }})
+        {% if include.year %}
+        '{{ include.year | slice: 2, 2 }}
+        {% endif %}
+    </h3>
+    <h4> Course {{ include.course }} </h4>
+    <p>{{ include.description | newline_to_br | markdownify }}</p>
+</div>
