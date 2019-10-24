@@ -10,7 +10,7 @@ html, body {
 }
 
 p {
-  margin: 0;
+  line-height: 150%;
 }
 
 h1 {
@@ -116,12 +116,13 @@ footer a {
   padding: 0 2rem;
 }
 
-.img-rounded {
+img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 25px;
   width: 60%;
+  border-radius: 6px;
 }
 
 .text{
@@ -145,6 +146,10 @@ footer a {
 .row {
   margin-top: 10px;
   margin-bottom: 10px;
+}
+
+.bio img, .row img {
+  width: 100%;
 }
 
 .col-md-4 p {
@@ -172,7 +177,7 @@ footer a {
   .content {
     width: 100%;
   }
-  .img-rounded {
+  img {
     width: 100%;
   }
   .container {
