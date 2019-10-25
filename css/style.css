@@ -29,6 +29,11 @@ footer {
   font-size: 14px;
 }
 
+footer p {
+  margin: 0;
+  line-height: 1;
+}
+
 footer a {
   color: #FFD5C9;
 }
@@ -116,7 +121,7 @@ footer a {
   padding: 0 2rem;
 }
 
-img {
+.content img {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -177,7 +182,7 @@ img {
   .content {
     width: 100%;
   }
-  img {
+  .content img {
     width: 100%;
   }
   .container {
