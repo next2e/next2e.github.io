@@ -24,22 +24,23 @@ a, a:active {
 
 footer {
   background-color: #F15025;
+  text-align: center;
   color: #ffffff;
   font-size: 14px;
-  width: 100%;
-  position: relative;
-  margin-top: -35px;
-  height: 35px;
-  clear: both;
+}
+
+footer a {
+  color: #FFD5C9;
 }
 
 #wrapper{
   min-height: 100%;
+  margin-bottom: -50px;
 }
 
 #main{
   overflow: auto;
-  padding-bottom: 35px;
+  padding-bottom:55px;
 }
 
 .container {
@@ -175,7 +176,6 @@ footer {
     width: 100%;
   }
   .container {
-    font-size: 8px;
     padding: 13px 0px;
     width: 94%;
   }
