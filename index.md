@@ -7,7 +7,7 @@ permalink: index.html
 
 ### Welcome to virtual 2E! <i class="em em-tada"></i>
 
-![2E family photo](./img/2emain.jpg)
+![2E family photo](./img/2emain.jpg){:.img-rounded}
 
 Two East is a family-like community with a diverse set of interests. We have
 a bunch of activities we do together, sometimes even unplanned, like picnics,

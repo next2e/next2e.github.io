@@ -121,7 +121,7 @@ footer a {
   padding: 0 2rem;
 }
 
-.content img {
+.img-rounded {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -182,7 +182,7 @@ footer a {
   .content {
     width: 100%;
   }
-  .content img {
+  .img-rounded {
     width: 100%;
   }
   .container {
