@@ -10,7 +10,7 @@ html, body {
 }
 
 p {
-  margin: 0;
+  line-height: 150%;
 }
 
 h1 {
@@ -27,6 +27,11 @@ footer {
   text-align: center;
   color: #ffffff;
   font-size: 14px;
+}
+
+footer p {
+  margin: 0;
+  line-height: 1;
 }
 
 footer a {
@@ -122,6 +127,7 @@ footer a {
   margin-right: auto;
   margin-bottom: 25px;
   width: 60%;
+  border-radius: 6px;
 }
 
 .text{
@@ -145,6 +151,10 @@ footer a {
 .row {
   margin-top: 10px;
   margin-bottom: 10px;
+}
+
+.bio img, .row img {
+  width: 100%;
 }
 
 .col-md-4 p {
