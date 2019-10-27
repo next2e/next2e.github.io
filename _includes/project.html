@@ -1,0 +1,7 @@
+<div class="col-md-4">
+    {% if include.project.image %}
+    <img src="{{ include.project.image }}" title="{{ include.project.image_title }}" class="img-thumbnail">
+    {% endif %}
+    <h3>{{ include.project.name }}</h3>
+    {{ include.project.description | markdownify }}
+</div>
