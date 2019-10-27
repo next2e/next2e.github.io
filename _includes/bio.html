@@ -1,6 +1,7 @@
 <div class="bio">
-    <img src="{{ site.url }}/img/people/{{ include.year }}/{{ include.kerberos }}.jpg" title="{{ include.kerberos }}"
-        class="img-thumbnail" onerror="this.onerror = null; this.src = '{{ site.url }}/img/people/nopic-gourd.png'" />
+    <img src="{{ site.url }}/assets/img/people/{{ include.year }}/{{ include.kerberos }}.jpg"
+        title="{{ include.kerberos }}" class="img-thumbnail"
+        onerror="this.onerror = null; this.src = '{{ site.url }}/assets/img/people/nopic-gourd.png'" />
     <h3>
         {{ include.name }} ({{ include.kerberos }})
         {% if include.year %}

@@ -1,6 +1,6 @@
 allwing:
   - name: 2ArcadE <i class="em em-space_invader"></i>
-    image: img/2arcadE.jpg
+    image: assets/img/2arcadE.jpg
     image_title: REX 2016!
     description: |
       2 East's very own homemade arcade machine! The various assortment of
@@ -27,7 +27,7 @@ allwing:
       he's going to make 2 West pay for it! Just kidding, 2E welcomes outsiders.
       Come see the 2E light show! :)
   - name: Raboiz <i class="em em-ramen"></i>
-    image: img/raboiz.jpg
+    image: assets/img/raboiz.jpg
     image_title: REX 2016!
     description: |
       Benevolent Boys Justin Boi And Emmanuel Boi Serve Free Ramen From Large Pot.
@@ -93,17 +93,17 @@ individual:
       Featured at [XFair](https://xfair.io) 2016 through
       [ProjX](https://projx.mit.edu).
   - name: 2E Shirt Designs
-    image: img/2shirtE/shirts-combined.jpg
+    image: assets/img/2shirtE/shirts-combined.jpg
     image_title: With their powers combined...
     description: |
       Every year we order shirts (subsidized by wing funds) with fun designs
       &mdash; 2014 and 2015 are by Ben, and 2016 is by Cheyenne!
 
-      [2014: 2E Turnup](img/2shirtE/turnup2e.png){:.img-rounded}
+      [2014: 2E Turnup](assets/img/2shirtE/turnup2e.png){:.img-rounded}
 
-      [2015: Two East and Shout](img/2shirtE/2east-and-shout.png){:.img-rounded}
+      [2015: Two East and Shout](assets/img/2shirtE/2east-and-shout.png){:.img-rounded}
 
-      [2016: Two East Strikes Again](img/2shirtE/strike.jpg){:.img-rounded}
+      [2016: Two East Strikes Again](assets/img/2shirtE/strike.jpg){:.img-rounded}
   - name: Janelle and Cheyenne's Awesful Bike
     description: |
       <iframe width="100%" height="auto" src="https://www.youtube.com/embed/DESThFV78Zo" frameborder="0" allowfullscreen></iframe>
@@ -128,7 +128,7 @@ individual:
 
       [Ben's website](http://www.benjamin-reynolds.com/gamedev.html)
   - name: Manuel's Radio Show
-    image: img/wmbr.jpg
+    image: assets/img/wmbr.jpg
     image_title: Manuel's smooth tunes
     description: |
       Manuel co-hosts the show QV Noise on MIT's radio station, WMBR, every Tuesday
@@ -137,7 +137,7 @@ individual:
       [Playlist
       archive](http://fred.track-blaster.com/wmbr/index.php?startdt=October+19%2C+2013&enddt=May+17%2C+2016&sort=desc&program=0&dj=147)
   - name: Losbucks
-    image: img/los.jpg
+    image: assets/img/los.jpg
     image_title: With his trust hammer.
     description: |
       On those dark nights of the soul where you're staring down a pset due in 5
