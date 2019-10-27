@@ -38,6 +38,10 @@ footer a {
   color: #FFD5C9;
 }
 
+footer a:hover {
+  color: #ffffff;
+}
+
 #wrapper{
   min-height: 100%;
   margin-bottom: -50px;
