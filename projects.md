@@ -1,8 +1,10 @@
 ---
 layout: main
 ---
-<h1>2WebsitE - Projects</h1>
-<p class="lead">All-Wing:</p>
+
+# 2WebsitE - Projects
+
+## All-Wing
 
 <div class="row">
   {% for project in site.data.projects.allwing %}
@@ -16,9 +18,9 @@ layout: main
   {% endfor %}
 </div>
 
-<hr class="m-y-2">
+---
 
-<h2>Individual Projects</h2>
+## Individual Projects
 
 <div class="row">
   {% for project in site.data.projects.individual %}
