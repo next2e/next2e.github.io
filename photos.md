@@ -11,7 +11,7 @@ permalink: photos.html
 
 {% if image.path contains 'img/gallery' %}
 
-![{{ image.basename }}]({{ site.url }}{{ image.path }}){:.img-thumbnail}
+![{{ image.basename }}]({{ image.path }} "{{ image.basename }}"){:.img-thumbnail}
 
 {% endif %}
 
