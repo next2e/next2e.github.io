@@ -30,8 +30,9 @@ something you want to see.
 - bstern
 
 ## License
+
 The code used in this repository is licensed under the `MIT License`. All
-other media used on the website, located under the  `img/` directory, have
+other media used on the website, located under the `assets/img/` directory, have
 their rights reserved.
 
 [ruby]: https://www.ruby-lang.org/en/documentation/installation/
